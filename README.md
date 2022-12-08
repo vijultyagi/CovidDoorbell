@@ -1,5 +1,7 @@
 # CoronavirusDoorbell
 
+Youtube Video Link : https://www.youtube.com/watch?v=zm7D8iYt6jo&t=7s&ab_channel=Vijul
+
 Arduino Doorbell with hidden IR temperature sensor to detect high fever
 
 Works similar to the IR temperature used at airports, scan the visitors body temperature as soon as they ring the bell using IR remote temperature. If body temperature is normal ring the bell, otherwise an alarm will appear.
@@ -12,8 +14,6 @@ Development Environments:
 Hardware - Arduino Nano R3, LED Display, IR Temperature sensor, MP3 decoder, speaker, breadboard.
 IDE - Arduino IDE 2.0.3
 Language - Arduino programming language
-
-Youtube Video Link : https://www.youtube.com/watch?v=zm7D8iYt6jo&t=7s&ab_channel=Vijul
 
 Group 11
 Vishal Singh - 1001949135
